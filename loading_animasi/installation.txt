@@ -3,6 +3,7 @@
 $ pip3 install progress progressbar2 alive-progress tqdm
 $ pip install windows-curses
 $ pip install tqdm
+$ pypi i tqdm
 
 # Some don't work because I copied an incomplete tutorial
 # I Marked it with output 0
