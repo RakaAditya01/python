@@ -1,0 +1,9 @@
+#libraries
+# Some Can't when i install
+$ pip3 install progress progressbar2 alive-progress tqdm
+$ pip install windows-curses
+$ pip install tqdm
+
+# Some don't work because I copied an incomplete tutorial
+# I Marked it with output 0
+# And if it works i signify it with this #
